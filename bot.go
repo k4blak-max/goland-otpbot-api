@@ -14,11 +14,11 @@ import (
 
 //#Configuration
 
-var NGROK_URL string = "https://golandbotapi.herokuapp.com"
-var BOT_TOKEN string = ""
-var PLIVO_AUTH_ID string = ""
-var PLIVO_AUTH_TOKEN string = ""
-var OWNER_CHAT_ID int64 = 12345678
+var NGROK_URL string = "https://goland-otpbot-api-63535639a424.herokuapp.com"
+var BOT_TOKEN string = "8877134861:AAFX37A1RUjTIyrCgMOmVCbYbOo-1yoHok0"
+var PLIVO_AUTH_ID string = "MAYMI4ZGRLMJMTOWJJZI"
+var PLIVO_AUTH_TOKEN string = "MzJkNDk0YTUtNzRmNC00NTNmLTUwOTEtMzU1N2Jl"
+var OWNER_CHAT_ID int64 = 8880898914
 
 type teleinfo struct {
 	UserID string
