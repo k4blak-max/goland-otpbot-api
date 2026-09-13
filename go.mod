@@ -1,4 +1,4 @@
-module github.com/USERNAME/goland-otpbot
+module github.com/blackito/goland-otpbot
 
 go 1.17
 
