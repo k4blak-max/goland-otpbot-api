@@ -1,4 +1,4 @@
-module github.com/k4blak-max/goland-otpbot-api
+module github.com/k4blak-max/goland-otpbot
 
 go 1.17
 
