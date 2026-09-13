@@ -1,1 +1,1 @@
-web: bin/goland-otpbot-api
+web: bin/goland-otpbot
